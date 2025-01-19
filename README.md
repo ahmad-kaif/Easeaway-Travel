@@ -1,8 +1,16 @@
-# Ease Away Travel
+# EaseAway Travel Website 🌍✈️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EaseAway** is a sleek and responsive travel website designed to help users explore and book exciting travel packages. The website features a modern UI, interactive elements, and smooth navigation, making travel planning effortless and enjoyable.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Global Vacation Packages**: Discover popular destinations like Almaty, Bali, Europe, and more.
+- **Indian Packages**: Explore diverse destinations like Ladakh, Kerala, Rajasthan, and Spiti.
+- **Bike Trips**: Plan thrilling adventures to Leh-Ladakh, Spiti Valley, and more.
+- **Honeymoon Packages**: Romantic getaways for couples.
+- **Community Trips**: Group tours to destinations like Meghalaya, Bali, and Dubai.
+- **Contact Form**: Easy-to-use form for inquiries, integrated with email services.
+
+
+
+
